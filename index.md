@@ -17,7 +17,9 @@ layout: default
 
 <p align='center'>
   Now available on the store!
-  <img src="https://github.com/user-attachments/assets/da4a4537-4dd9-4183-9e0e-93e88495fd0f">
+  <a href="https://play.google.com/store/apps/details?id=com.meowlytics.moodmeow" target="_blank">
+    <img src="https://github.com/user-attachments/assets/da4a4537-4dd9-4183-9e0e-93e88495fd0f" alt="MoodMeow" width="150">
+  </a>
 </p>
 
 <p>
