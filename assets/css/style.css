@@ -1,0 +1,26 @@
+/* Import the Google Font */
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+/* Change the background color */
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center; /* Center vertically */
+    align-items: center; /* Center horizontally */
+    min-height: 100vh; 
+    background-color: #FFE8A3; 
+    color: #401B01; /* Dark text */
+    font-family: 'Press Start 2P', cursive;
+    text-align: center;
+    font-size: 10px;
+    line-height: 2;
+}
+
+img {
+    max-width: 100%; /* Responsive image */
+    height: auto;
+}
+
+p {
+    margin-bottom: 30px; /* Adjust the value as needed */
+}
